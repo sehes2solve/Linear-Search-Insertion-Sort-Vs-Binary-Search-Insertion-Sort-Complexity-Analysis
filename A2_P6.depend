@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1554040937 source:c:\users\peter\desktop\a2_p6\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<iomanip>
+
+1554042554 source:c:\users\peter\desktop\ds assignment 2\a2_p6\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<iomanip>
+
+1554042554 source:d:\2nd semister grade 2\data structures\assignment\a2_20170079_20170081_20170094\a2_p6\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<iomanip>
+
